@@ -8,6 +8,7 @@ resultado = base ** exponente
 
 # Muestra el resultado.
 print("Resultado:", resultado)
+<<<<<<< HEAD
 #==============================
 print("Introduce un número: ")
 numeUsu= input()
@@ -18,3 +19,7 @@ if (num % 2 == 0):
     print("El número introducido es par: " + numeUsu)
 elif (num % 2 !=0):
     print("El número introducido no es par: " + numeUsu)
+=======
+
+print("hola mundo")
+>>>>>>> ce8b2144aa2340152fee2661ac02b6f0d6b69ed3
