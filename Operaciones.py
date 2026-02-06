@@ -8,3 +8,13 @@ resultado = base ** exponente
 
 # Muestra el resultado.
 print("Resultado:", resultado)
+#==============================
+print("Introduce un número: ")
+numeUsu= input()
+num = int(numeUsu)
+
+
+if (num % 2 == 0):
+    print("El número introducido es par: " + numeUsu)
+elif (num % 2 !=0):
+    print("El número introducido no es par: " + numeUsu)
