@@ -8,3 +8,5 @@ resultado = base ** exponente
 
 # Muestra el resultado.
 print("Resultado:", resultado)
+
+print("hola mundo")
